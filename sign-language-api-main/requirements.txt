@@ -1,0 +1,7 @@
+flask>=3.0,<4.0
+flask-cors>=4.0
+tflite-runtime
+numpy<2.0.0
+mediapipe==0.10.5
+opencv-python-headless
+gunicorn
